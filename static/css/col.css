@@ -1,0 +1,33 @@
+.col {
+    background-color: black;
+    width: 100px;
+    height: 500px;
+    position: absolute;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.cl-1 {
+    margin-top: 50px;
+    margin-left: -600px;
+}
+
+.cl-2{
+    margin-top: 50px;
+    margin-left: -300px;
+}
+
+.cl-3 {
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+.cl-4 {
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.cl-5 {
+    margin-top: 50px;
+    margin-left: 600px;
+}
